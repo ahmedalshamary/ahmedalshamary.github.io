@@ -1,6 +1,6 @@
 # main text of home
 name: Ahmed Alshamary
-bio: Team Lead & Engineer @ Ridgeline
+bio: Software Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
-resume-url: https://docs.google.com/document/d/1sv00k2i9gKFpHb-IROESz1XlYB1XCyfb/edit?usp=sharing&ouid=111765937988448222819&rtpof=true&sd=true
+resume-url:
 
 url: https://ahmedralshamary.com
 # your url: http://USERNAME.github.io
@@ -57,7 +57,7 @@ email: ahmedralshamary@gmail.com
 authors:
     ahmedalshamary:
         name: Ahmed Alshamary
-        bio: Someone who likes tech way to much.
+        bio:
         external-image: false
         picture: assets/images/profile.jpg
 
