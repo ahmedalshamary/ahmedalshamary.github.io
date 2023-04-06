@@ -1,4 +1,3 @@
-## Ahmed Alshamary Site
 
 I am using this repo as the basis for this site https://github.com/sergiokopplin/indigo.
 
