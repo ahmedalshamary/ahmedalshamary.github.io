@@ -8,7 +8,7 @@ layout: page
   Hello all,
 </p>
 <p>
-  Welcome to my personal site. I'm Ahmed, a software engineer by day and a ... by night (I try to sleep, its healthy). I also occasionally dabble in enterpreneurship (I've yet to suceed!) and writing (I wrote a <a target="_blank" href="https://smile.amazon.com/Bits-Prejudice-Problems-Solutions-Technology/dp/1641370424/ref=sr_1_1?keywords=bits+%26+prejudice&qid=1556930514&s=gateway&sr=8-1">book!</a>). When I'm not being conventionally productive, I like to lift, play football (soccer), cook (not well), and hike. 
+  Welcome to my personal site. I'm Ahmed, a software engineer by day and a ... by night (I try to sleep, its healthy). I also occasionally dabble in enterpreneurship (I've yet to succeed!) and writing (I wrote a <a target="_blank" href="https://smile.amazon.com/Bits-Prejudice-Problems-Solutions-Technology/dp/1641370424/ref=sr_1_1?keywords=bits+%26+prejudice&qid=1556930514&s=gateway&sr=8-1">book!</a>). When I'm not being conventionally productive, I like to lift, play football (soccer), cook (not well), and hike. 
 </p>
 <p>
   I've also been freelancing (<a target="_blank" href="https://www.classpulse.org"> Class Pulse </a>, <a target="_blank" href="https://hivemapper.com"> Hivemapper </a>) and consulting. If you have something interesting, reach out! And if you're an NGO working on a cause I support, I try to do pro bono work every now and then, so please feel free to contact me. 
